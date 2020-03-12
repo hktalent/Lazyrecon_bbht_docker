@@ -1,0 +1,6 @@
+[submodule "bbht"]
+	path = bbht
+	url = https://github.com/nahamsec/bbht
+[submodule "lazyrecon"]
+	path = lazyrecon
+	url = https://github.com/nahamsec/lazyrecon

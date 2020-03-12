@@ -1,0 +1,13 @@
+# mac ds_ files
+*.DS_Store
+fsnotify
+__pycache__
+.DS_Store
+*.pyc
+*.log*
+mtx/newdb/*.war
+mtx/newdb/*.jar
+mtx/newdb/*.ear
+mtx/newdb/*.zip
+mtx/common/._51PWN_com.db
+
